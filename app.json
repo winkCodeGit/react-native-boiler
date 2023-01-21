@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "scanner",
+    "slug": "scanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e7ecc675-15ff-49da-8d53-ddf453059ec8"
+      }
+    }
+  },
+  "name": "scanner"
+}
