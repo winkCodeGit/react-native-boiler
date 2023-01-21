@@ -1,0 +1,16 @@
+install expo-cli if not in global;
+    npm install -g expo-cli
+
+install package
+    npm install
+
+to start
+ npx expo start
+
+
+---------------Making build--------------
+1. install npm install -g eas-cli
+2. configure eas.json
+3.eas build --platform android 
+
+
