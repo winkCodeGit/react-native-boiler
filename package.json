@@ -1,5 +1,5 @@
 {
-  "name": "scanner",
+  "name": "train",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,16 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.7",
+    "axios": "^1.2.3",
     "expo": "~47.0.12",
+    "expo-barcode-scanner": "~12.1.0",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-native": "0.70.5",
     "react-native-permissions": "^3.6.1",
-    "react-native-qrcode-scanner": "^1.5.5",
-    "expo-barcode-scanner": "~12.1.0"
+    "react-native-progress": "^5.0.0",
+    "react-native-qrcode-scanner": "^1.5.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
